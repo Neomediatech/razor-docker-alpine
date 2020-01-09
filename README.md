@@ -1,4 +1,4 @@
-## Use [Ubuntu version](https://github.com/Neomediatech/razor-ubuntu) instead of this repo
+## Use [Ubuntu version](https://github.com/Neomediatech/razor) instead of this repo
 
 Docker image of Vipul's Razor.  
 This image contains razor software taken from Alpine repository and "daemonized" with a python3 script.  
